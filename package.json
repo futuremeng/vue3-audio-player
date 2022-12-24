@@ -51,6 +51,8 @@
     "vue": "^3.2.25"
   },
   "devDependencies": {
+    "@types/node": "^18.11.17",
+    "path": "^0.12.7",
     "@vitejs/plugin-vue": "^2.2.0",
     "prettier": "^2.6.0",
     "pretty-quick": "^3.1.3",
